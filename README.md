@@ -1,5 +1,5 @@
 # VB_Class
 This is for my software development class<br>
 <br>
-Updates
+<b>Updates</b>
 <br>1/4/24 Updated ReadMe
